@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.9">
+<resources>
+<format id="r0" name="FFVideoFormat1080p30" frameDuration="1/30s" width="1920" height="1080"/>
+<format id="f1" frameDuration="1/30s" width="2160" height="3840"/>
+<asset id="a1" name="0A66FB80-5EEF-4138-971B-134CE743D7C3.mov" start="0s" duration="1983/100s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/0A66FB80-5EEF-4138-971B-134CE743D7C3.mov"/></asset>
+<asset id="a2" name="1DA2D215-7006-4077-91D2-2ED42A815279.mov" start="0s" duration="2827/200s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/1DA2D215-7006-4077-91D2-2ED42A815279.mov"/></asset>
+<asset id="a3" name="335742B9-A107-4CD3-880C-CA21C22355C1.mov" start="0s" duration="51/5s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/335742B9-A107-4CD3-880C-CA21C22355C1.mov"/></asset>
+<asset id="a4" name="449F6C65-DDA0-4EC3-BE63-2DDF1A225D75.mov" start="0s" duration="6221/600s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/449F6C65-DDA0-4EC3-BE63-2DDF1A225D75.mov"/></asset>
+<asset id="a5" name="4A409023-72FB-4EA4-A0BF-A9417894A022.mov" start="0s" duration="1883/100s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/4A409023-72FB-4EA4-A0BF-A9417894A022.mov"/></asset>
+<asset id="a6" name="4D6AB734-FE69-45E3-B665-926E4C66FDA4.mov" start="0s" duration="38083/600s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/4D6AB734-FE69-45E3-B665-926E4C66FDA4.mov"/></asset>
+<asset id="a7" name="519DDDB0-F963-4E12-9DFA-56D8B3F7C119.mov" start="0s" duration="13081/600s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/519DDDB0-F963-4E12-9DFA-56D8B3F7C119.mov"/></asset>
+<asset id="a8" name="54C82C29-5554-4A2B-95AF-5FBD35EA1F49.mov" start="0s" duration="47/5s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/54C82C29-5554-4A2B-95AF-5FBD35EA1F49.mov"/></asset>
+<asset id="a9" name="5838BD9C-7CD6-4E89-A1E0-889660E025D7.mov" start="0s" duration="6461/600s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/5838BD9C-7CD6-4E89-A1E0-889660E025D7.mov"/></asset>
+<format id="f2" frameDuration="1/30s" width="720" height="1280"/>
+<asset id="a10" name="5F185EE0-9371-49D7-AE0F-C156493430C3.mov" start="0s" duration="11729/200s" hasVideo="1" hasAudio="1" format="f2" audioSources="1" audioChannels="1" audioRate="44100"><media-rep kind="original-media" src="file:./MIDIA/5F185EE0-9371-49D7-AE0F-C156493430C3.mov"/></asset>
+<asset id="a11" name="772A1458-25F9-41BE-992B-BE3FCEED3154.mov" start="0s" duration="6119/200s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/772A1458-25F9-41BE-992B-BE3FCEED3154.mov"/></asset>
+<asset id="a12" name="7A69483E-7E7C-4399-A8B5-48E4393D88CD.mov" start="0s" duration="2023/100s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/7A69483E-7E7C-4399-A8B5-48E4393D88CD.mov"/></asset>
+<asset id="a13" name="8838CEB4-323E-43B5-A69B-8F80ED6EEB89.mov" start="0s" duration="12391/300s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/8838CEB4-323E-43B5-A69B-8F80ED6EEB89.mov"/></asset>
+<format id="f3" frameDuration="1001/30000s" width="720" height="1280"/>
+<asset id="a14" name="8880A6A4-DEED-4201-AD2C-AAAEBD9A3188.mov" start="0s" duration="9097/600s" hasVideo="1" hasAudio="1" format="f3" audioSources="1" audioChannels="1" audioRate="44100"><media-rep kind="original-media" src="file:./MIDIA/8880A6A4-DEED-4201-AD2C-AAAEBD9A3188.mov"/></asset>
+<asset id="a15" name="94AF54F7-DA87-4DFD-853A-34FE5EAEF59D.mov" start="0s" duration="4617/100s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/94AF54F7-DA87-4DFD-853A-34FE5EAEF59D.mov"/></asset>
+<asset id="a16" name="A609BD42-4392-4818-AEBB-CB8D91AD9CFD.mov" start="0s" duration="11021/300s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/A609BD42-4392-4818-AEBB-CB8D91AD9CFD.mov"/></asset>
+<asset id="a17" name="D1A00AAA-5FF1-441E-A9FA-09AAC6942AC2.mov" start="0s" duration="8321/600s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/D1A00AAA-5FF1-441E-A9FA-09AAC6942AC2.mov"/></asset>
+<asset id="a18" name="DD455817-748E-4C4F-9CEA-23582823C52A.mov" start="0s" duration="12581/200s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/DD455817-748E-4C4F-9CEA-23582823C52A.mov"/></asset>
+<asset id="a19" name="DDED3DA4-52F0-4BBD-BF98-7003BE161E2E.mov" start="0s" duration="2327/200s" hasVideo="1" hasAudio="1" format="f1" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/DDED3DA4-52F0-4BBD-BF98-7003BE161E2E.mov"/></asset>
+<format id="f4" frameDuration="1/60s" width="3840" height="2160"/>
+<asset id="a20" name="IMG_2850.MOV" start="0s" duration="2231/120s" hasVideo="1" hasAudio="1" format="f4" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2850.MOV"/></asset>
+<asset id="a21" name="IMG_2852.MOV" start="0s" duration="1027/50s" hasVideo="1" hasAudio="1" format="f4" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2852.MOV"/></asset>
+<format id="f5" frameDuration="1/60s" width="2160" height="3840"/>
+<asset id="a22" name="IMG_2853.MOV" start="0s" duration="2393/60s" hasVideo="1" hasAudio="1" format="f5" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2853.MOV"/></asset>
+<asset id="a23" name="IMG_2857.MOV" start="0s" duration="31673/600s" hasVideo="1" hasAudio="1" format="f4" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2857.MOV"/></asset>
+<asset id="a24" name="IMG_2858.MOV" start="0s" duration="13451/300s" hasVideo="1" hasAudio="1" format="f5" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2858.MOV"/></asset>
+<asset id="a25" name="IMG_2878.MOV" start="0s" duration="29/5s" hasVideo="1" hasAudio="1" format="f4" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2878.MOV"/></asset>
+<asset id="a26" name="IMG_2924.MOV" start="0s" duration="22391/600s" hasVideo="1" hasAudio="1" format="f4" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2924.MOV"/></asset>
+<asset id="a27" name="IMG_2933.MOV" start="0s" duration="18559/150s" hasVideo="1" hasAudio="1" format="f4" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2933.MOV"/></asset>
+<asset id="a28" name="IMG_2970.MOV" start="0s" duration="2043/200s" hasVideo="1" hasAudio="1" format="f5" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2970.MOV"/></asset>
+<asset id="a29" name="IMG_2979.MOV" start="0s" duration="233/30s" hasVideo="1" hasAudio="1" format="f4" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2979.MOV"/></asset>
+<asset id="a30" name="IMG_2980.MOV" start="0s" duration="15181/600s" hasVideo="1" hasAudio="1" format="f4" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_2980.MOV"/></asset>
+<format id="f6" frameDuration="1/30s" width="1440" height="1920"/>
+<asset id="a31" name="IMG_3066.MOV" start="0s" duration="4507/200s" hasVideo="1" hasAudio="1" format="f6" audioSources="1" audioChannels="1" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_3066.MOV"/></asset>
+<asset id="a32" name="IMG_3082.MOV" start="0s" duration="4897/100s" hasVideo="1" hasAudio="1" format="f5" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_3082.MOV"/></asset>
+<asset id="a33" name="IMG_3093.MOV" start="0s" duration="15211/600s" hasVideo="1" hasAudio="1" format="f5" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./MIDIA/IMG_3093.MOV"/></asset>
+<format id="f7" frameDuration="1/60s" width="464" height="832"/>
+<asset id="a34" name="VIDEO-2026-10-11-18-44-17.mp4" start="0s" duration="16561/300s" hasVideo="1" hasAudio="1" format="f7" audioSources="1" audioChannels="2" audioRate="44100"><media-rep kind="original-media" src="file:./MIDIA/VIDEO-2026-10-11-18-44-17.mp4"/></asset>
+<format id="f8" frameDuration="1001/60000s" width="464" height="832"/>
+<asset id="a35" name="VIDEO-2026-10-11-19-00-26.mp4" start="0s" duration="1469/120s" hasVideo="1" hasAudio="1" format="f8" audioSources="1" audioChannels="2" audioRate="44100"><media-rep kind="original-media" src="file:./MIDIA/VIDEO-2026-10-11-19-00-26.mp4"/></asset>
+<asset id="aT" name="titulo_MIGUEL_PEREIRA_alpha.mov" start="0s" duration="4.8s" hasVideo="1" format="r0"><media-rep kind="original-media" src="file:./titulo_MIGUEL_PEREIRA_alpha.mov"/></asset>
+<asset id="aM" name="trilha_musica.wav" start="0s" duration="414/5s" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:./trilha_musica.wav"/></asset>
+</resources>
+<library>
+<event name="Miguel Pereira">
+<project name="Miguel Pereira - viagem (90s)">
+<sequence format="r0" duration="414/5s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+<spine>
+<asset-clip ref="a5" offset="0s" name="4A409023-72FB-4EA4-A0BF-A9417894A022.mov" start="169/20s" duration="21/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="+4.9dB"/><asset-clip ref="aM" lane="-1" offset="169/20s" name="trilha_musica.wav" start="0s" duration="414/5s" audioRole="music"/></asset-clip>
+<asset-clip ref="a21" offset="21/5s" name="IMG_2852.MOV" start="13/5s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-80.0dB"/><asset-clip ref="aT" lane="1" offset="13/5s" name="titulo MIGUEL PEREIRA" start="0s" duration="4.8s"/></asset-clip>
+<asset-clip ref="a4" offset="22/5s" name="449F6C65-DDA0-4EC3-BE63-2DDF1A225D75.mov" start="5/2s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a20" offset="23/5s" name="IMG_2850.MOV" start="43/10s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a8" offset="24/5s" name="54C82C29-5554-4A2B-95AF-5FBD35EA1F49.mov" start="6/5s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a7" offset="5s" name="519DDDB0-F963-4E12-9DFA-56D8B3F7C119.mov" start="1s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a29" offset="26/5s" name="IMG_2979.MOV" start="5/2s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a13" offset="27/5s" name="8838CEB4-323E-43B5-A69B-8F80ED6EEB89.mov" start="10s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a2" offset="28/5s" name="1DA2D215-7006-4077-91D2-2ED42A815279.mov" start="9/2s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a27" offset="29/5s" name="IMG_2933.MOV" start="91s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a18" offset="6s" name="DD455817-748E-4C4F-9CEA-23582823C52A.mov" start="20s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a1" offset="31/5s" name="0A66FB80-5EEF-4138-971B-134CE743D7C3.mov" start="1s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a9" offset="32/5s" name="5838BD9C-7CD6-4E89-A1E0-889660E025D7.mov" start="5s" duration="1/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-80.0dB"/></asset-clip>
+<asset-clip ref="a23" offset="33/5s" name="IMG_2857.MOV" start="1/2s" duration="12/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-21.5dB"/></asset-clip>
+<asset-clip ref="a8" offset="9s" name="54C82C29-5554-4A2B-95AF-5FBD35EA1F49.mov" start="6s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-9.8dB"/></asset-clip>
+<asset-clip ref="a7" offset="51/5s" name="519DDDB0-F963-4E12-9DFA-56D8B3F7C119.mov" start="2s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-7.7dB"/></asset-clip>
+<asset-clip ref="a5" offset="57/5s" name="4A409023-72FB-4EA4-A0BF-A9417894A022.mov" start="22/5s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-9.0dB"/></asset-clip>
+<asset-clip ref="a20" offset="63/5s" name="IMG_2850.MOV" start="9/5s" duration="18/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="+1.6dB"/></asset-clip>
+<asset-clip ref="a4" offset="81/5s" name="449F6C65-DDA0-4EC3-BE63-2DDF1A225D75.mov" start="1s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-14.2dB"/></asset-clip>
+<asset-clip ref="a21" offset="87/5s" name="IMG_2852.MOV" start="8/5s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-24.7dB"/></asset-clip>
+<asset-clip ref="a19" offset="93/5s" name="DDED3DA4-52F0-4BBD-BF98-7003BE161E2E.mov" start="1s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-8.1dB"/></asset-clip>
+<asset-clip ref="a17" offset="99/5s" name="D1A00AAA-5FF1-441E-A9FA-09AAC6942AC2.mov" start="3s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-15.7dB"/></asset-clip>
+<asset-clip ref="a21" offset="21s" name="IMG_2852.MOV" start="54/5s" duration="21/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="+5.5dB"/></asset-clip>
+<asset-clip ref="a24" offset="126/5s" name="IMG_2858.MOV" start="26s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-7.3dB"/></asset-clip>
+<asset-clip ref="a25" offset="132/5s" name="IMG_2878.MOV" start="4s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-11.7dB"/></asset-clip>
+<asset-clip ref="a22" offset="138/5s" name="IMG_2853.MOV" start="83/5s" duration="12/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="+2.5dB"/></asset-clip>
+<asset-clip ref="a26" offset="30s" name="IMG_2924.MOV" start="0s" duration="3s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="+2.7dB"/></asset-clip>
+<asset-clip ref="a9" offset="33s" name="5838BD9C-7CD6-4E89-A1E0-889660E025D7.mov" start="5s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-7.1dB"/></asset-clip>
+<asset-clip ref="a11" offset="171/5s" name="772A1458-25F9-41BE-992B-BE3FCEED3154.mov" start="71/5s" duration="18/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="+5.3dB"/></asset-clip>
+<asset-clip ref="a16" offset="189/5s" name="A609BD42-4392-4818-AEBB-CB8D91AD9CFD.mov" start="1s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-9.3dB"/></asset-clip>
+<asset-clip ref="a14" offset="39s" name="8880A6A4-DEED-4201-AD2C-AAAEBD9A3188.mov" start="1s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-22.6dB"/></asset-clip>
+<asset-clip ref="a10" offset="201/5s" name="5F185EE0-9371-49D7-AE0F-C156493430C3.mov" start="20s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-21.0dB"/></asset-clip>
+<asset-clip ref="a27" offset="207/5s" name="IMG_2933.MOV" start="2s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-15.0dB"/></asset-clip>
+<asset-clip ref="a6" offset="213/5s" name="4D6AB734-FE69-45E3-B665-926E4C66FDA4.mov" start="31s" duration="3s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="+14.0dB"/></asset-clip>
+<asset-clip ref="a15" offset="228/5s" name="94AF54F7-DA87-4DFD-853A-34FE5EAEF59D.mov" start="127/5s" duration="24/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="+4.1dB"/></asset-clip>
+<asset-clip ref="a15" offset="252/5s" name="94AF54F7-DA87-4DFD-853A-34FE5EAEF59D.mov" start="16s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-17.6dB"/></asset-clip>
+<asset-clip ref="a27" offset="258/5s" name="IMG_2933.MOV" start="181/2s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-26.4dB"/></asset-clip>
+<asset-clip ref="a2" offset="264/5s" name="1DA2D215-7006-4077-91D2-2ED42A815279.mov" start="21/2s" duration="18/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="+4.4dB"/></asset-clip>
+<asset-clip ref="a27" offset="282/5s" name="IMG_2933.MOV" start="187/2s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-18.9dB"/></asset-clip>
+<asset-clip ref="a28" offset="288/5s" name="IMG_2970.MOV" start="3/2s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-16.2dB"/></asset-clip>
+<asset-clip ref="a35" offset="294/5s" name="VIDEO-2026-10-11-19-00-26.mp4" start="1s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-13.1dB"/></asset-clip>
+<asset-clip ref="a13" offset="60s" name="8838CEB4-323E-43B5-A69B-8F80ED6EEB89.mov" start="8s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-8.3dB"/></asset-clip>
+<asset-clip ref="a18" offset="306/5s" name="DD455817-748E-4C4F-9CEA-23582823C52A.mov" start="20s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-15.0dB"/></asset-clip>
+<asset-clip ref="a34" offset="312/5s" name="VIDEO-2026-10-11-18-44-17.mp4" start="0s" duration="3s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="+1.2dB"/></asset-clip>
+<asset-clip ref="a29" offset="327/5s" name="IMG_2979.MOV" start="1s" duration="12/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-17.5dB"/></asset-clip>
+<asset-clip ref="a30" offset="339/5s" name="IMG_2980.MOV" start="3s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-26.1dB"/></asset-clip>
+<asset-clip ref="a1" offset="69s" name="0A66FB80-5EEF-4138-971B-134CE743D7C3.mov" start="1s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-21.4dB"/></asset-clip>
+<asset-clip ref="a12" offset="351/5s" name="7A69483E-7E7C-4399-A8B5-48E4393D88CD.mov" start="1s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-0.6dB"/></asset-clip>
+<asset-clip ref="a3" offset="357/5s" name="335742B9-A107-4CD3-880C-CA21C22355C1.mov" start="7/2s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-transform position="0 0" scale="1.77778 1.77778" rotation="90"/><adjust-volume amount="-11.8dB"/></asset-clip>
+<asset-clip ref="a31" offset="363/5s" name="IMG_3066.MOV" start="6s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-9.7dB"/></asset-clip>
+<asset-clip ref="a32" offset="369/5s" name="IMG_3082.MOV" start="21s" duration="12/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-11.8dB"/></asset-clip>
+<asset-clip ref="a33" offset="381/5s" name="IMG_3093.MOV" start="2s" duration="6/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="-15.6dB"/></asset-clip>
+<asset-clip ref="a27" offset="387/5s" name="IMG_2933.MOV" start="524/5s" duration="27/5s" tcFormat="NDF"><adjust-conform type="fit"/><adjust-volume amount="+3.4dB"/></asset-clip>
+</spine>
+</sequence>
+</project>
+</event>
+</library>
+</fcpxml>
